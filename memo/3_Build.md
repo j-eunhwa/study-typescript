@@ -71,3 +71,10 @@ console.log(person.sayHello());
 ```bash
 $ tsc person -t ES2015
 ```
+
+実行結果、
+
+```bash
+$ node person
+Hello, Lee
+```
