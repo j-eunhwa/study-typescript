@@ -1,5 +1,7 @@
 # todo
 
+![todo list](./img/todoList.jpg)
+
 ## Project setup
 ```
 npm install
